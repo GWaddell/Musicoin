@@ -1,0 +1,9 @@
+Building Musicoin
+
+See doc/readme-qt.rst for instructions on building Musicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Musicoin.
+
+See doc/build-*.txt for instructions on building musicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Musicoin.
